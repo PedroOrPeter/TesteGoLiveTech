@@ -3,7 +3,7 @@
 #    python3 main.py #Caso seja em linux
 #    python main.py #Caso seja no Windows
 
-#IMPORTANTE: Necessário estar na pasta que se encontra o arquivo main.py
+#IMPORTANTE: Necessário estar na pasta(diretório) que se encontra o arquivo main.py
 
 #IMPORTANTE: Como foi feito no linux, talvez o diretório do executable_path seja diferente no windows..
 #Recomendo baixar o chromedriver.exe referente ao seu navegador chrome e colocar no mesmo diretório do 
