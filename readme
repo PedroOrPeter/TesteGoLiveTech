@@ -5,6 +5,11 @@
 
 #IMPORTANTE: Necessário estar na pasta(diretório) que se encontra o arquivo main.py
 
+#IMPORTANTE:
+  -pip install pandas
+  -pip install selenium
+  -pip install openpyxl
+  
 #IMPORTANTE: Como foi feito no linux, talvez o diretório do executable_path seja diferente no windows..
 #Recomendo baixar o chromedriver.exe referente ao seu navegador chrome e colocar no mesmo diretório do 
 #Script.
