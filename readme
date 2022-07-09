@@ -1,0 +1,13 @@
+#Para executar a automação, é necessário executar o arquivo main.
+#Execute no terminar da IDE:
+#    python3 main.py #Caso seja em linux
+#    python main.py #Caso seja no Windows
+
+#IMPORTANTE: Necessário estar na pasta que se encontra o arquivo main.py
+
+#O Script irá executar e criar uma nova planilha excel com o nome de 'GoLiveTech-ExercicioRafael-NovaBase.CEPs.xlsx'
+#Passando todos os dados recebidos do site do correio.
+
+
+#Feito no linux mint
+#Pedro Maciel
