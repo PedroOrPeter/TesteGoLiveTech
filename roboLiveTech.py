@@ -1,9 +1,10 @@
+import logging
+
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from openpyxl import Workbook
 import time
-
 
 class RoboRafael:
     def __init__(self):
