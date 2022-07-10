@@ -17,6 +17,11 @@
 #O Script irá executar e criar uma nova planilha excel com o nome de 'GoLiveTech-ExercicioRafael-NovaBase.CEPs.xlsx'
 #Passando todos os dados recebidos do site do correio.
 
+#O sistema conta com um gerador de log que adiciona a data+hora de toda vez que o mesmo foi executado.
+#Caso não exista, ele cria um arquivo txt.
+#Caso já exista, ele utiliza do modulo append do LOGGING, e adiciona toda vez que é executado.
+
+#Faça bom proveito 😃😃
 
 #Feito no linux mint
 #Pedro Maciel
